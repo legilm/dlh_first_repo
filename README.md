@@ -21,3 +21,4 @@ I’m Gil (https://github.com/legilm), an aspiring developer!
 ## 🎯 Next Steps:
 - Add more content to this repository.
 - Learn how to push changes using Git.
+![pic](https://render.fineartamerica.com/images/rendered/default/poster/6/8/break/images/artworkimages/medium/3/inception-bo-kev.jpg)
