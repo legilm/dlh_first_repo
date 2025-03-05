@@ -21,5 +21,5 @@ I’m Gil (https://github.com/legilm), an aspiring developer!
 ## 🎯 Next Steps:
 - Add more content to this repository.
 - Learn how to push changes using Git.
-- 
+
 ![pic](https://filmschoolrejects.com/wp-content/uploads/2020/05/inception-top-700x480.jpg)
