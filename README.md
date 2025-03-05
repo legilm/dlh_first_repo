@@ -23,3 +23,5 @@ I’m Gil (https://github.com/legilm), an aspiring developer!
 - Learn how to push changes using Git.
 
 ![pic](https://filmschoolrejects.com/wp-content/uploads/2020/05/inception-top-700x480.jpg)
+
+([My Other Project](https://github.com/legilm/advertising-analysis))
