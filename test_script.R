@@ -1,1 +1,1 @@
-test
+r    print("Hello Git from RStudio!")
